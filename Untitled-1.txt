@@ -1,0 +1,184 @@
+[+919876543210](tel:+919876543210)
+[Your Hospital](http://localhost:3000/)
+[Departments](http://localhost:3000/departments)
+[Doctors](http://localhost:3000/doctors)
+[Services](http://localhost:3000/services)
+[Patient Info](http://localhost:3000/patient-info)
+[About](http://localhost:3000/about)
+[Contact](http://localhost:3000/contact)
+[Book Appointment](http://localhost:3000/book-appointment)
+
+# Advanced medical care, close to home.
+
+Experience world-class healthcare with compassionate specialists, state-of-the-art technology, and a commitment to your well-being.
+[Book Appointment](http://localhost:3000/book-appointment)
+[Find a Doctor](http://localhost:3000/doctors)
+NABH
+Accredited
+ISO 9001:2015
+Certified
+
+## Excellence in Healthcare
+
+We are committed to providing world-class medical services with a focus on patient safety, comfort, and recovery.
+
+### Expert Medical Team
+Our doctors are internationally trained specialists with decades of combined experience in their respective fields.
+
+### Advanced Technology
+We invest in state-of-the-art diagnostic and surgical equipment to ensure precision and the best possible outcomes.
+
+### 24/7 Emergency Care
+Our trauma center and emergency department are fully equipped and staffed round-the-clock to handle critical cases.
+
+### Patient-Centric Approach
+We believe in personalized care plans, ensuring every patient is treated with dignity, compassion, and respect.
+
+### Comprehensive Services
+From routine check-ups to complex surgeries, all your medical needs are met under one roof.
+
+### Seamless Experience
+Dedicated patient coordinators assist international and domestic patients at every step of their healthcare journey.
+
+## Centers of Excellence
+
+Comprehensive care across specialized departments, led by expert medical professionals.
+[View all departments](http://localhost:3000/departments)
+[Department of CardiologyComprehensive care for your heart with advanced diagnostics and treatments.Learn more](http://localhost:3000/departments/cardiology)
+
+### Department of Cardiology
+Comprehensive care for your heart with advanced diagnostics and treatments.
+[Department of OrthopedicsExpert treatment for bone, joint, and muscle conditions to restore your mobility.Learn more](http://localhost:3000/departments/orthopedics)
+
+### Department of Orthopedics
+Expert treatment for bone, joint, and muscle conditions to restore your mobility.
+[Department of NeurologyAdvanced care for disorders of the brain, spine, and nervous system.Learn more](http://localhost:3000/departments/neurology)
+
+### Department of Neurology
+Advanced care for disorders of the brain, spine, and nervous system.
+[Department of OncologyComprehensive cancer care with a multidisciplinary and personalized approach.Learn more](http://localhost:3000/departments/oncology)
+
+### Department of Oncology
+Comprehensive cancer care with a multidisciplinary and personalized approach.
+[Department of PediatricsSpecialized and compassionate medical care for infants, children, and adolescents.Learn more](http://localhost:3000/departments/pediatrics)
+
+### Department of Pediatrics
+Specialized and compassionate medical care for infants, children, and adolescents.
+[Department of GynecologyDedicated healthcare services for women across all stages of life.Learn more](http://localhost:3000/departments/gynecology)
+
+### Department of Gynecology
+Dedicated healthcare services for women across all stages of life.
+[View all departments](http://localhost:3000/departments)
+
+## Meet Our Specialists
+
+Highly qualified and experienced medical professionals dedicated to your care.
+[View all doctors](http://localhost:3000/doctors)
+
+### Dr. Arun Sharma
+cardiology
+Senior Consultant Cardiologist
+[Book with Arun](http://localhost:3000/book-appointment?doctor=dr-arun-sharma)
+[View Profile](http://localhost:3000/doctors/dr-arun-sharma)
+
+### Dr. Neha Gupta
+cardiology
+Consultant Cardiologist
+[Book with Neha](http://localhost:3000/book-appointment?doctor=dr-neha-gupta)
+[View Profile](http://localhost:3000/doctors/dr-neha-gupta)
+
+### Dr. Vikram Singh
+orthopedics
+HOD, Orthopedics
+[Book with Vikram](http://localhost:3000/book-appointment?doctor=dr-vikram-singh)
+[View Profile](http://localhost:3000/doctors/dr-vikram-singh)
+
+### Dr. Anjali Desai
+neurology
+Senior Neurologist
+[Book with Anjali](http://localhost:3000/book-appointment?doctor=dr-anjali-desai)
+[View Profile](http://localhost:3000/doctors/dr-anjali-desai)
+[View all doctors](http://localhost:3000/doctors)
+
+## Comprehensive Health Packages
+
+Proactive health checkups designed for different age groups and lifestyles to keep you healthy.
+[View all packages](http://localhost:3000/health-packages)
+
+### Basic Health Checkup
+A comprehensive screen covering vital health parameters to ensure your overall well-being.
+Includes:
+- Complete Blood Count (CBC)
+- Fasting Blood Sugar
+- Lipid Profile
+- Kidney Function Test
+- + 3 more tests & consultations
+[Enquire Now](http://localhost:3000/book-appointment?dept=general-medicine&reason=Enquiry for Basic%20Health%20Checkup)
+[View Full Details](http://localhost:3000/health-packages/basic-health-check)
+
+### Comprehensive Cardiac Care
+Advanced screening designed specifically for assessing heart health and identifying risks early.
+Includes:
+- Basic Health Checkup profile
+- TMT (Treadmill Test)
+- 2D Echo
+- Cardiologist Consultation
+- + 1 more tests & consultations
+[Enquire Now](http://localhost:3000/book-appointment?dept=general-medicine&reason=Enquiry for Comprehensive%20Cardiac%20Care)
+[View Full Details](http://localhost:3000/health-packages/comprehensive-cardiac)
+
+### Women's Wellness Package
+Tailored health assessments addressing the specific health needs of women across age groups.
+Includes:
+- Basic Health Checkup profile
+- Thyroid Profile (T3, T4, TSH)
+- Pap Smear
+- Pelvic Ultrasound
+- + 1 more tests & consultations
+[Enquire Now](http://localhost:3000/book-appointment?dept=general-medicine&reason=Enquiry for Women's%20Wellness%20Package)
+[View Full Details](http://localhost:3000/health-packages/womens-wellness)
+[View all packages](http://localhost:3000/health-packages)
+
+## What Our Patients Say
+Real stories of hope, healing, and recovery from the people we serve.
+Sarah Johnson
+Orthopedic Surgery
+Rajesh Kumar
+Emergency Care
+Elena Rodriguez
+Cardiology
+
+## Frequently Asked Questions
+You can book an appointment online through our website, by calling our 24/7 helpline, or by visiting the hospital reception in person.
+Yes, we accept all major health insurance providers and have tie-ups with numerous TPA networks for cashless hospitalization.
+Our emergency and trauma center operates 24 hours a day, 7 days a week, fully staffed with critical care specialists and surgeons.
+Yes, we have a dedicated international patient helpdesk providing visa assistance, airport transfers, language translators, and complete treatment coordination.
+Providing world-class healthcare services with compassion and excellence.
+
+### Quick Links
+[Departments](http://localhost:3000/departments)
+[Doctors](http://localhost:3000/doctors)
+[Services](http://localhost:3000/services)
+[Health Packages](http://localhost:3000/health-packages)
+
+### Patient Info
+[Admission](http://localhost:3000/patient-info)
+[Insurance](http://localhost:3000/patient-info)
+[Visiting Hours](http://localhost:3000/patient-info)
+[FAQ](http://localhost:3000/patient-info)
+
+### Contact Us
+123 Health Avenue, Metropolis, NY 10001
+[Emergency: +919876543210](tel:+919876543210)
+[General: +1 234 567 890](tel:+1234567890)
+[contact@yourhospital.com](mailto:contact@yourhospital.com)
+Open 24/7
+[Book an Appointment](http://localhost:3000/book-appointment)
+© 2026 Your Hospital. All rights reserved.
+[Privacy Policy](http://localhost:3000/privacy)
+[Terms of Service](http://localhost:3000/terms)
+[Medical Disclaimer](http://localhost:3000/disclaimer)
+[Accessibility Statement](http://localhost:3000/accessibility)
+[Call](tel:+919876543210)
+[WhatsApp](https://wa.me/919876543210)
+[Book](http://localhost:3000/book-appointment)

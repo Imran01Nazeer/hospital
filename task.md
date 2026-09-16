@@ -1,0 +1,12 @@
+# Phase 0 Tasks
+- [/] TASK 1 — Install dependencies
+- [ ] TASK 2 — Design tokens (app/globals.css)
+- [ ] TASK 3 — Fonts (app/layout.tsx)
+- [ ] TASK 4 — Layout shell components
+- [x] TASK 5 — SEO helpers
+- [x] TASK 6 — Root SEO files
+- [x] TASK 7 — Middleware
+- [x] TASK 8 — Env files
+- [ ] TASK 9 — Placeholder home page
+- [ ] TASK 10 — Sentry init
+- [ ] VERIFICATION
